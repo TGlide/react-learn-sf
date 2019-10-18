@@ -20,3 +20,8 @@
 .App-link {
   color: #09d3ac;
 }
+
+.cardWrapper {
+  width: 30vw;
+  margin: 3rem auto;
+}

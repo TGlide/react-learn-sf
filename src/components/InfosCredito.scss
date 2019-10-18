@@ -1,0 +1,26 @@
+.infosCredito {
+  .cardMain {
+    border-radius: 5px;
+    .ant-card-head {
+      background-color: #fafafa;
+    }
+  }
+
+  .cardTitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+    .icon {
+      color: #00d2d3;
+      font-size: 1.75rem;
+      margin: 0 0.5rem 0 0;
+    }
+
+    .title {
+      font-weight: 400;
+      font-size: 1.25rem;
+    }
+  }
+}
